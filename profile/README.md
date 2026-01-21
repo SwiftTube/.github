@@ -1,1 +1,1 @@
-<img src="assets/screenshot.webp" />
+<img src="assets/screenshot.jpg" />
